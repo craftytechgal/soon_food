@@ -1,0 +1,135 @@
+/*Fonts documentation---------
+------------------------------
+font-family: 'Poiret One', cursive;
+font-family: 'Open Sans Condensed', sans-serif;
+-------------------------------*/
+.navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    /*background-color: yellow;*/
+    color: #FFC0CB;
+    background-color: #ffffcc;
+}
+
+.navbar {
+	background-color: #ffffe6;
+}
+.navbar-nav {
+	float: right;
+	clear: right;
+    
+}
+.navbar-brand, .navbar-nav > li > a {
+    text-shadow: none;
+    color: black;
+}
+
+.navbar-toggle {
+	background-color: #CA212C;
+	
+}
+.navbar-toggle .icon-bar {
+	background-color: #fff;
+    
+}
+.main-container {
+	padding: 20px;
+	margin-top: 40px;
+}
+
+.green {
+	/*background-color: green;*/
+	height: 200px;
+	margin: 5px 0;
+	border-radius: 10px;
+}
+
+.header {
+	background-image: url("images/bannerimgfinal.jpg");
+	height: 320px;
+	max-width: 100%;
+	padding-left: 25px;
+}
+
+.logo {
+	padding-left: 25px;
+	position: relative;
+	top: 75px;
+
+
+}
+
+.home-text {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	padding: 5px;
+	margin: 5px;
+
+
+}
+
+.navbar .navbar-fixed-top {
+	height: 60px !important;
+
+}
+
+h1 {
+	font-family: 'Poiret One', cursive;
+	font-size: 42px;
+
+}
+
+li {
+	font-family: 'Poiret One', cursive;
+	font-size: 20px;
+}
+
+.i {
+	float: left !important;
+	list-style-type: none !important;
+	padding: 20px 15px 20px 15px;
+	margin: margin: 40px 20px 10px 10px;
+	text-decoration: none;
+
+}
+
+ul li {
+	float: left;
+
+
+}
+
+.store-thumb {
+	padding: 20px 15px 20px 15px;
+	margin: margin: 40px 20px 10px 10px;
+	padding-bottom: 5px !important;
+
+}
+
+.button {
+	padding: 15px;
+	margin: margin: 25px;
+	border: solid 2px black;
+	border-radius: 15px;
+	text-align: center;
+	width: 125px;
+	background-color: #ffffe6;
+	align: center;
+	margin:0 auto;
+    display:block;
+    margin-top: 15px;
+}
+
+.button:hover {
+	border: solid 2px #b02833;
+	background-color: #ffffb3;
+
+}
+
+image-responsive {
+	margin-bottom: 15px !important;
+
+}
+
+
+
+
+
