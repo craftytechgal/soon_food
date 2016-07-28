@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+
+	<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Soon Food</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <script src="https://use.fontawesome.com/edbc5b8af0.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
+     <!-- Google Font -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Poiret+One' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    
+  </head>
+
+	<body>
+		
+			
+
+	<nav class="navbar navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#" class="Poiretone"></a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="#">Blog</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="store.html">Store</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+    	
+
+    	<div class="main-conatainer">
+			
+		<!--Soon Food Banner w/ image and logo-->
+			
+		<div class="banner">
+			<div class="row" id="home">
+		<!--banner-->
+	    		<div class="header">
+	        		<div class="col-md-12 col-sm-12 col-xs-12">
+	          			<div class="logo">
+    						<a href="index.html"><img src="images/soonlogo.png" class="image-responsive"></a>
+						</div>
+        			</div>
+    			</div>
+			</div>
+		</div>
+		<!---end of banner-->
+			
+			<div class="row" id="space-blog-text">
+			
+	        		
+	        		<div class="col-md-2 col-sm-2 col-xs-12">
+	        			<div class="space"></div>
+	        		</div>
+
+        	
+	        		<div class="col-md-8 col-sm-8 col-xs-12">
+	          			<div class="blog-text">
+	          			
+          				<div class="text-container">
+
+          				<center><h1>Blog</h1><center>
+	          				<p> Bacon ipsum dolor amet beef ribs pig shank, landjaeger turkey porchetta salami pork loin. Flank shankle salami sausage. Jerky brisket doner drumstick, boudin shoulder leberkas kielbasa sirloin venison cupim tail pork belly strip steak tenderloin. Meatball doner cupim, t-bone pork belly sirloin drumstick. Filet mignon chuck flank tenderloin brisket landjaeger. Cow spare ribs shankle, chuck picanha drumstick ball tip. Tail rump ham hock pork chop kevin biltong porchetta leberkas ham chicken fatback.  Bacon ipsum dolor amet beef ribs pig shank, landjaeger turkey porchetta salami pork loin. Flank shankle salami sausage. Jerky brisket doner drumstick, boudin shoulder leberkas kielbasa sirloin venison cupim tail pork belly strip steak tenderloin. Meatball doner cupim, t-bone pork belly sirloin drumstick. Filet mignon chuck flank tenderloin brisket landjaeger. Cow spare ribs shankle, chuck picanha drumstick ball tip. Tail rump ham hock pork chop kevin biltong porchetta leberkas ham chicken fatback.  Bacon ipsum dolor amet beef ribs pig shank, landjaeger turkey porchetta salami pork loin. Flank shankle salami sausage. Jerky brisket doner drumstick, boudin shoulder leberkas kielbasa sirloin venison cupim tail pork belly strip steak tenderloin. Meatball doner cupim, t-bone pork belly sirloin drumstick. Filet mignon chuck flank tenderloin brisket landjaeger. Cow spare ribs shankle, chuck picanha drumstick ball tip. Tail rump ham hock pork chop kevin biltong porchetta leberkas ham chicken fatback.
+	          				</p>
+
+          				</div>
+      				</div>
+
+      				<div class="col-md-2 col-sm-2 col-xs-12">
+	        			<div class="space"></div>
+	        		</div>
+			</div>
+		
+		</div>
+
+				<br>
+				<br>
+				<br>
+
+<!--social media icons-->
+		
+<!--
+		<div class="icon-container">	
+			<ul class="icons-group">
+				<li><a href="https://www.instagram.com/explore/tags/soonfood/" target="_blank">
+						<p>
+						<i class="fa fa-instagram" aria-hidden="true"></i>
+						</p>
+					</a>
+				</li>
+				<li>	
+						<p>
+						<i class="fa fa-facebook-square" aria-hidden="true"></i>
+						
+						</p>
+				</li>	
+				<li>
+						<p>
+						<i class="fa fa-tumblr" aria-hidden="true"></i>
+						</p>
+
+				</li>
+
+			</ul>
+		</div>
+-->
+    	</div>
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+	
+
+
+
+
+	</body>
+  
+
+
+
+
+
+</html>
